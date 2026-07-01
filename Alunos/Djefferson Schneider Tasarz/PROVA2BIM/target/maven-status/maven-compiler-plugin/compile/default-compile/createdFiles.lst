@@ -1,0 +1,9 @@
+br\com\serietracker\view\MainFrame$SerieCellRenderer.class
+br\com\serietracker\model\Serie.class
+br\com\serietracker\service\TvMazeService.class
+br\com\serietracker\view\MainFrame$2.class
+br\com\serietracker\model\Usuario.class
+br\com\serietracker\view\MainFrame.class
+br\com\serietracker\service\JsonService.class
+br\com\serietracker\view\MainFrame$1.class
+br\com\serietracker\Main.class
